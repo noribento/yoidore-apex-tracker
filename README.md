@@ -28,6 +28,6 @@ $ yarn generate
 
 `'API_KEY'` must be added to the environment variable. The API key can be obtained from the TRN Developer(https://tracker.gg/) website.
 
-Many browsers have Cross-Origin Resource Sharing(CORS) disabled by default. Therefore, if you launch the server on your localhost and browse with a browser, you may get an error. In that case, please refer to your browser's support page to enable CORS (if you are using Google Chrome, you can enable it by using the flag `--disable-web-security`).
+Many browsers have Cross-Origin Resource Sharing(CORS) disabled by default. Therefore, if you launch the server on your localhost and browse with a browser, you may get an error. In that case, please refer to your browser's support page to enable CORS (if you are using Google Chrome, you can enable it by using the `--disable-web-security` flag).
 
 This software is provided under the MIT License. The libraries included in this software are provided under the license of the libraries. The developer (noribento) assumes no responsibility for any damage caused by using this software. Please use it at your own risk.
