@@ -30,7 +30,7 @@ export default {
     selectedUser: '',
     selectedPlatform: '',
     users: [
-      { userIdentifier: 'yaita_soba_dayoo', userPlatform: 'origin' },
+      { userIdentifier: 'SUPER_HOT_COFFEE', userPlatform: 'origin' },
       { userIdentifier: 'tatuki1521', userPlatform: 'psn' },
       { userIdentifier: 'Pooh_TKG20', userPlatform: 'origin' },
       { userIdentifier: 'akikan_810', userPlatform: 'psn' },
